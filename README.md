@@ -1,4 +1,4 @@
 # Katie Sharp
 ### Welcome to my website 
 
-![Image] 
+![Alternate image text](https://someurl/imagelocation/image.png) 
